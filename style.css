@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: grey;
+}
+
+
+#title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border:10px black solid;
+    box-sizing: border-box;
+    background-color: darkred;
+
+}
+
+.block1{
+
+    float:left;
+    width:25%;
+    
+    border: 10px black solid;
+    box-sizing: border-box;
+    
+
+}
+
+.block2{
+  
+    float:right;
+    width:75%;
+    text-align: center;
+    
+    border:10px black solid;
+    box-sizing:border-box;
+
+    background-color: lightgray;
+}
+
+
+
+.abo{
+
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+
+}
+
+.name{
+    text-align: center;
+    font: outline; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.pic{
+    text-align: center;
+    
+}
+
+.block3{
+   
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    
+}
+
+.barrier{
+    float:right;
+    width: 50%;
+
+    border:10px black solid;
+    box-sizing:border-box;
+
+    background-color: lightgray;
+    
+}
